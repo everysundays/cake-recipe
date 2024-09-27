@@ -2,7 +2,7 @@
 
 ## What to do
 
-1. Find recipe
-2. Content layout
-3. find image
-4. publish cake recipe
+[x] Find recipe
+[ ] Content layout
+[ ] find image
+[ ] publish cake recipe
