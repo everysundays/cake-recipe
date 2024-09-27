@@ -1,3 +1,9 @@
+# Outline
+
+![hero image](Black-Forest-Cake-5.jpg)
+
+[read recipe](https://natashaskitchen.com/black-forest-cake-recipe/)
+
 __This Black Forest Cake__ is my version of the famous German chocolate cake, aka “Schwarzwälder Kirschtorte.” It has 4 chocolatey layers, 1 lb of kirsch-infused cherries and a light whipped cream.
 
 It is a stunning and decadent cake but _it’s fairly simple to make with just 11 ingredients_ (which is peanuts for a cake!). The chocolate shavings make this Black Forest cake 
