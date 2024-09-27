@@ -1,6 +1,6 @@
 # cake-recipe
 
-## To-do List
+## What to do
 
 1. Find recipe
 2. Content layout
